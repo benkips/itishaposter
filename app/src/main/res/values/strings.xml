@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Itisha Graphic</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_index">index</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="aboutx">Itisha Graphic is a simple, easy to use app that helps you request and receive any graphic within the shortest time possible.
+Whether its a poster for Mobilization or activity, a banner, wedding invitation card, etc, we design it for you professionally and you will receive it within an 1-2 hours upon the request time at the cheapest cost.
+You can also hire us in contract basis to always ensure that you get your graphic faster whenever you need it.If you\'ve any corrections needed on your graphic we have a dedicated team which ensures that any error or addition on your graphic is done quickly and efficiently.</string>
+
+
+</resources>
